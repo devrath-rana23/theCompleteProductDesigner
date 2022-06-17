@@ -157,14 +157,11 @@
 - Design Systems Handbook - https://www.designbetter.co/design-systems-handbook
 - Design Systems articles on building and maintaining design systems - https://www.designsystems.com/
 
-
-
-
-
-
-
-
-
-
-
-
+# Extra Resources
+- https://unsplash.com/
+- https://zerotomastery.io/resources/
+- https://www.behance.net/
+- https://goodui.org/
+- https://www.awwwards.com/
+- https://www.flaticon.com/
+- https://thenounproject.com/
